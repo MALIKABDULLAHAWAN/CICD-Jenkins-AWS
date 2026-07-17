@@ -47,7 +47,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our docs about me
+            Read our docs about me yo
           </a>
         </div>
       </main>
